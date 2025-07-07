@@ -48,3 +48,4 @@ Conclusion
 In summary, the client-server chat application built using Java sockets and multithreading is a practical demonstration of network programming principles. It effectively showcases how to manage multiple client connections, facilitate real-time communication, and handle concurrency. This project not only reinforces fundamental programming concepts but also prepares developers for more complex networking tasks in real-world applications. By understanding and implementing this chat application, developers gain valuable insights into the workings of client-server architectures and the challenges of real-time communication.
 
 **OUTPUT**
+https://github.com/user-attachments/files/21105654/Task-3.output.txt
